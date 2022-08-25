@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Craig
 - 👀 I’m interested in ...electronics, coding and embedded systems
-- 🌱 I’m currently learning ... always and loads
-- 💞️ I’m looking to collaborate on ... nothing for now
+- 🌱 I’m currently learning building sites and apps
+- 💞️ I’m looking to collaborate on swapping apps for food
 - 📫 How to reach me ... craig@yoyozi.com
 
 <!---
