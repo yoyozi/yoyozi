@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Craig
-- 👀 I’m interested in ...electronics, coding and embedded systems
-- 🌱 I’m currently learning building sites and apps
-- 💞️ I’m looking to collaborate on swapping apps for food
+- Coding fulltime
+- JS, Python, Ruby etc
+- Doing small eb apps using geolocation and leaflet
 - 📫 How to reach me ... craig@yoyozi.com
 
 <!---
