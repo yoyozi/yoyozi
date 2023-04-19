@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Craig
 - Coding fulltime
-- JS, Python, Ruby etc
+- Full stack with react and getting into next.... next lol
 - Doing small eb apps using geolocation and leaflet
 - 📫 How to reach me ... craig@yoyozi.com
 
