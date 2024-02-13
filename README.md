@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Craig
-- Coding fulltime
-- Full stack with react and getting into next.... next lol
-- Doing small eb apps using geolocation and leaflet
+### 👋 Hi, I’m Craig
+- Loving javascript, have experience in shell scripting, php, python, ruby and finally mastering javascript and its various frameworks
+- Nextjs
+- RTK Query
 - 📫 How to reach me ... craig@yoyozi.com
 
 <!---
